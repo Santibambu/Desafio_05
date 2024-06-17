@@ -1,0 +1,38 @@
+*{
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.espacio{
+  margin: 8px;
+}
+
+.card{
+  width: 300px;
+  margin: 0 auto;
+}
+
+.card2{
+  width: 440px;
+  margin: 0 auto;
+}
+
+a.text-white {
+  text-decoration: none;
+}
+
+.card a {
+  text-decoration: none;
+}
